@@ -6,6 +6,6 @@ title: Massiv-, Stahl und Holzbau
 
 ---
 
-Wir planen Wohn- und Industriegebäude in integraler Zusammenarbeit mit Architek:innen und Bauherr:innen und unter Berücksichtigung der Bauprozesse.
+Wir planen Wohn- und Industriegebäude in integraler Zusammenarbeit mit Architekt:innen und Bauherr:innen und unter Berücksichtigung der Bauprozesse.
 
 

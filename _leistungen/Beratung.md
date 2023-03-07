@@ -6,4 +6,4 @@ title: Beratung
 
 ---
 
-Unsere beratende Ingenieurin Dipl.-Ing Dipl.-Des. Brugger bietet Ihnen eine unabhängige Beratung auf neuestem fachlichem Stand an.
+Unsere beratende Ingenieurin Dipl.-Ing Dipl.-Des. Brugger bietet Ihnen eine unabhängige Beratung auf neuestem fachlichen Stand an.
