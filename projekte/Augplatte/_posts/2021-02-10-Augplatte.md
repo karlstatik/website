@@ -5,5 +5,5 @@ tags: Stahl
 
 ---
 
-FE-Berechnung einer stählernen Augplatte, da die geometrischen Randbedingungen lt. Norm zum Tragfähigkeitsnachweis nicht erfüllt waren.
+FE-Berechnung einer stählernen Augplatte, da ein Tragfähigkeitsnachweis durch Erfüllen von normativ geregelter Geometrie nicht möglich war.
 
