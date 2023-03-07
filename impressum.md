@@ -27,7 +27,8 @@ Zuständige Kammer: [Ingenieurkammer Baden-Württemberg](https://www.ingbw.de)
 
 ## EU-Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: (https://ec.europa.eu/consumers/odr/)
-Wir sind nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen. Unsere E-Mail-Adresse finden Sie oben im Impressum.
+Wir sind nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen. 
+Unsere E-Mail-Adresse finden Sie weiter oben im Impressum.
 
 ## Angaben zur Berufshaftpflichtversicherung
 Name und Sitz des Versicherers:
