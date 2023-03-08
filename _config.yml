@@ -12,6 +12,9 @@ keep_files:
   - ".git"
   - ".gitignore"
 
+plugins:
+  - "jekyll-toc"
+
 # Site settings
 title: karlstatik
 subtitle: "büro für tragwerksplanung"

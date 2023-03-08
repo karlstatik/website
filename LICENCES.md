@@ -1,14 +1,44 @@
+--- 
+title: Copyright 
+layout: post
+permalink: /licences/
+toc: true 
 ---
-title: CREDITS 
----
+#Copyright
+Für unsere Internet-Seiten und alle weiteren Inhalte liegen die Rechte bei der karlstatik GmbH. Weiterverbreitung, auch in Auszügen, für pädagogische, wissenschaftliche oder private Zwecke ist unter Angabe der Quelle gestattet (sofern nicht anders an der entsprechenden Stelle ausdrücklich angegeben). Eine Verwendung im gewerblichen Bereich bedarf unserer Genehmigung. 
 
-# Credits
-This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
+Diese Webseite wurde mit Jekyll und Yarn gebaut und verwendet Open-Source-Komponenten. Sie können den Quellcode ihrer Open-Source-Projekte zusammen mit den Lizenzinformationen unten finden. Wir sind diesen Entwicklern für ihre Beiträge zu Open Source dankbar.
 
 -------------------------------------------------------------------------------
+## @themefisher/airspace-jekyll-forked
 
-## Project
-@fontsource/mukta
+### Source
+https://github.com/themefisher/airspace-jekyll-forked
+
+### License
+The MIT License (MIT)
+
+Copyright (c) 2016 - Present, Themefisher
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## @fontsource/mukta
 
 ### Source
 https://github.com/fontsource/fontsource
@@ -38,8 +68,7 @@ SOFTWARE.
 
 -------------------------------------------------------------------------------
 
-## Project
-@fortawesome/fontawesome-free
+## @fortawesome/fontawesome-free
 
 ### Source
 https://github.com/FortAwesome/Font-Awesome
@@ -57,7 +86,7 @@ Full Font Awesome Free license: https://fontawesome.com/license/free.
 
 --------------------------------------------------------------------------------
 
-# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
 
 The Font Awesome Free download is licensed under a Creative Commons
 Attribution 4.0 International License and applies to all icons packaged
@@ -65,7 +94,7 @@ as SVG and JS file types.
 
 --------------------------------------------------------------------------------
 
-# Fonts: SIL OFL 1.1 License
+Fonts: SIL OFL 1.1 License
 
 In the Font Awesome Free download, the SIL OFL license applies to all icons
 packaged as web and desktop font files.
@@ -165,7 +194,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 --------------------------------------------------------------------------------
 
-# Code: MIT License (https://opensource.org/licenses/MIT)
+Code: MIT License (https://opensource.org/licenses/MIT)
 
 In the Font Awesome Free download, the MIT license applies to all non-font and
 non-icon files.
@@ -214,8 +243,7 @@ to represent the company, product, or service to which they refer.**
 
 -------------------------------------------------------------------------------
 
-## Project
-animate.css
+## animate.css
 
 ### Source
 https://github.com/animate-css/animate.css
@@ -258,8 +286,7 @@ This Hippocratic License is an Ethical Source license (https://ethicalsource.dev
 
 -------------------------------------------------------------------------------
 
-## Project
-bootstrap
+## bootstrap
 
 ### Source
 https://github.com/twbs/bootstrap
@@ -290,8 +317,7 @@ THE SOFTWARE.
 
 -------------------------------------------------------------------------------
 
-## Project
-owl.carousel
+## owl.carousel
 
 ### Source
 https://github.com/OwlCarousel2/OwlCarousel2
