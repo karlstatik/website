@@ -3,8 +3,6 @@ exclude:
   - "/node_modules/"
   - "Gemfile"
   - "Gemfile.lock"
-  - "README.md"
-  - "LICENSE.md"
   - "*.gemspec"
 
 keep_files:
